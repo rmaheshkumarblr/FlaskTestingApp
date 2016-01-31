@@ -32,3 +32,9 @@ source deactivate
 ```
 conda remove -n venv -all
 ```
+
+
+#To use virtual env
+```
+virtualenv -p /usr/bin/python venv
+```
